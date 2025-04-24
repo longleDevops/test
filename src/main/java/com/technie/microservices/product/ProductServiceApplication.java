@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ProductServiceApplication {
-	// change av bit
+	// change av bit jk
 	public static void main(String[] args) {
 		SpringApplication.run(ProductServiceApplication.class, args);
 	}
